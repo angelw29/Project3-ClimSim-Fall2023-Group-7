@@ -19,7 +19,7 @@ Summary: In this project, we developed a quickstart notebook for R users, setup 
 All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
 - Quickstart for R user: Yichuan Lin
-- Data loader (huggingface): Hannah Gao, Zan Li
+- Data_Loader: Hannah Gao, Zan Li
 	- 
 - Build ML models: Bessie Wang & Angel Wang
 	- both searched up for different models
