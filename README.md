@@ -21,13 +21,9 @@ Term: Fall 2023
 
 - Quickstart using R: Yichuan Lin
 	- Rewrite starter codes in Data-ulits (<a href="doc:sourcer.R" target="_blank">sourcer.R</a>)
-- Data Loader: Hannah Gao, Zan Li
-	- Mount Google Drive for quickstart notebook (<a href="doc:quickstart_example-Cloud Notebook.ipynb" target="_blank">quickstart_example-Cloud Notebook.ipynb</a>)
- 	- Generate Filelist directly from Hugging Face
 - Cloud Based Notebooks & Data Loader: Hannah Gao, Zan Li
 	- Mount Google Drive for quickstart notebook
  	- Generate Filelist directly from Hugging Face
->>>>>>> Stashed changes
 - Build ML models: Bessie Wang & Angel Wang
 	- both searched up for different models
 	- both contributes to building the model, and helped each other with debugging
