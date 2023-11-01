@@ -13,13 +13,13 @@ Term: Fall 2023
 	+ Bessie Wang
 	+ Zan Li
 	+ Hannah Gao
-	+ tYichuan Lin
+	+ Yichuan Lin
 
 + Project summary: In this project, we developed a quickstart notebook for R users, setup data loader for  huggingface with specifying time range and subsampling scheme, and propose new models for future use.
 
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
-- A quick start for R users: Yichuan Lin
+- Quickstart using R: Yichuan Lin
 	-
 - Data Loader: Hannah Gao, Zan Li
 	- 
