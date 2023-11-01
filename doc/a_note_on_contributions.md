@@ -9,12 +9,21 @@ Post your title, team members, project abstract and a contribution statement in 
 Below is an example. If no contribution statement is provided, we will insert a default statement that goes "**All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement**. "
 
 ---
-Sample project README statement.
+Project 3 ClimSim - Machine Learning for Climate Modeling
+Group 7
 
-Project xxx
+Team members: Angel Wang, Bessie Wang, Zan Li, Hannah Gao, Yichuan Lin
 
-Team members: Avi Bond, Comma Deed, En Funn, Gem Hon
+Summary: In this project, we developed a quickstart notebook for R users, setup data loader for  huggingface with specifying time range and subsampling scheme, and propose new models for future use.
+ 
+All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
-Summary: In this project, we developed a new method and improved the classification accuracy for images of cats and dogs to 99.9%
-
-[Contribution Statement] AB, CD, EF and GH designed the study. AB and CD developed baseline classification model for evaluation. EF and GH explored feature engineering for improving the baseline model. AB, EF and GH discussed and designed the model evaluation protocol. CD carried out the computation for model evaluation. All team members contributed to the GitHub repository and prepared the presentation. All team members approve our work presented in our GitHub repository including this contribution statement.
+- A quick start for R users: Yichuan Lin
+	-
+- Data Loader: Hannah Gao, Zan Li
+	- 
+- Build ML models: Bessie Wang & Angel Wang
+	- both searched up for different models
+	- both contributes to building the model, and helped each other with debugging
+- all team members contributes to setting up the slide for presentation
+	
