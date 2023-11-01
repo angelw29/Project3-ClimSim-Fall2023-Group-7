@@ -17,10 +17,11 @@ Team members: Angel Wang, Bessie Wang, Zan Li, Hannah Gao, Yichuan Lin
 Summary: In this project, we developed a quickstart notebook for R users, setup data loader for  huggingface with specifying time range and subsampling scheme, and propose new models for future use.
  
 All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
-
-- Quickstart for R user: Yichuan Lin
-- Data<span> Loader: Hannah Gao, Zan Li
-	- 
+- Quickstart using R: Yichuan Lin
+	- Rewrite starter codes in Data-ulits
+- Cloud Based Notebooks & Data Loader: Hannah Gao, Zan Li
+	- Mount Google Drive for quickstart notebook
+	- Generate Filelist directly from Hugging Face
 - Build ML models: Bessie Wang & Angel Wang
 	- both searched up for different models
 	- both contributes to building the model, and helped each other with debugging
