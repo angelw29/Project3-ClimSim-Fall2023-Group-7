@@ -20,13 +20,20 @@ Term: Fall 2023
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
 - Quickstart using R: Yichuan Lin
-	-
+	- Rewrite starter codes in Data-ulits (<a href="doc:sourcer.R" target="_blank">sourcer.R</a>)
 - Data Loader: Hannah Gao, Zan Li
-	- 
+	- Mount Google Drive for quickstart notebook (<a href="doc:quickstart_example-Cloud Notebook.ipynb" target="_blank">quickstart_example-Cloud Notebook.ipynb</a>)
+ 	- Generate Filelist directly from Hugging Face
+- Cloud Based Notebooks & Data Loader: Hannah Gao, Zan Li
+	- Mount Google Drive for quickstart notebook
+ 	- Generate Filelist directly from Hugging Face
+>>>>>>> Stashed changes
 - Build ML models: Bessie Wang & Angel Wang
 	- both searched up for different models
 	- both contributes to building the model, and helped each other with debugging
 - all team members contributes to setting up the slide for presentation
+
+
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
